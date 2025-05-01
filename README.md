@@ -8,8 +8,7 @@ This work introduces a novel generative imputation model designed to complete mi
 
 The core idea is to function as an **AI Design Copilot**: given an incomplete set of design parameters, the model suggests multiple, diverse, and accurate ways to complete the design.
 
-![AI Copilot Overview](intro.png)
-*(You may need to add the `intro.pdf` file converted to an image format like `intro.png` to your repository and adjust the path)*
+![AI Copilot Overview](intro.jpg)
 
 ## Key Features
 
